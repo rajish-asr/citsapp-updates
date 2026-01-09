@@ -1,8 +1,8 @@
 {
-  "version": "2.1.0",
-  "build_number": 2,
-  "download_url": "https://github.com/rajish-asr/citsapp-updates/releases/download/v2.1.0/app-release.apk",
-  "release_notes": "Version 2.1.0\n\n✨ What's New:\n- Bug fixes and improvements\n- Enhanced performance\n- Updated UI design\n\n📱 Please update to get the latest features!",
+  "version": "2.2.1",
+  "build_number": 4,
+  "download_url": "https://github.com/rajish-asr/citsapp-updates/releases/download/v2.2.1/app-release.apk",
+  "release_notes": "Version 2.2.1\n\n✨ What's New:\n- Bug fixes and improvements\n- Enhanced performance\n- Updated UI design\n\n📱 Please update to get the latest features!",
   "force_update": false,
   "min_supported_version": "2.0.0"
 }
